@@ -36,8 +36,8 @@ legend {
 .flex-item-intro {
     text-align: center;
     padding-top: 290px;
-    margin-left: 665px;
-    margin-right: 665px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 .flex-item-about {
     width: 560px;
@@ -99,6 +99,7 @@ legend {
 #intro {
     background-image: url("../img/intro.png"); 
     background-repeat: no-repeat; 
+    background-position: center;
     height: 1072px;
     color: white;
 }
