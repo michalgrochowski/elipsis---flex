@@ -154,9 +154,9 @@ h4 {
     font-size: 18px;
     letter-spacing: 3px;
 }
-.icon-tasks:before { content: '\f0ae'; font-size: 60px; color: black; margin-top: 50px;} /* '' */
-.icon-file-image:before { content: '\f1c5'; font-size: 60px; color: black; margin-top: 50px;} /* '' */
-.icon-file-code:before { content: '\f1c9'; font-size: 60px; color: black; margin-top: 50px;} /* '' */
+.icon-tasks:before { content: '\f0ae'; font-size: 60px; color: black; margin-top: 50px;} /* 'ďŽ' */
+.icon-file-image:before { content: '\f1c5'; font-size: 60px; color: black; margin-top: 50px;} /* 'ď' */
+.icon-file-code:before { content: '\f1c9'; font-size: 60px; color: black; margin-top: 50px;} /* 'ď' */
 
 
 
